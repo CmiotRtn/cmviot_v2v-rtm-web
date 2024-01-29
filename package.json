@@ -1,0 +1,9 @@
+{
+  "name": "cmviot-rtm",
+  "version": "2.1.5-rc.101",
+  "main": "cmviot_v2v-rtm-web-v2.1.5.101.js",
+  "browser": "cmviot_v2v-rtm-web-v2.1.5.101.js",
+  "types": "cmviot_v2v-rtm-web-v2.1.5.101.d.ts",
+  "author": "cmviot",
+  "license": "Apache"
+}
